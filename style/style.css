@@ -51,8 +51,15 @@ footer {
 
 h2 {
     color: white;
+    font-size: xx-large;
 }
 
 p {
     color: white;
+    font-size: large;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
 }
